@@ -11,6 +11,7 @@ namespace ejer1
         static void Main(string[] args)
         {
             Console.Write("Mi primera subida");
+            Console.Write("Mi segunda subida");
         }
     }
 }
